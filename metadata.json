@@ -1,0 +1,6 @@
+{
+  "name": "Sri Janki Pharma",
+  "description": "Sri Janki Pharma - Your Trusted Medical Store for Genuine Medicines, Healthcare Products & Prescriptions in Jehanabad, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
